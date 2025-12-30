@@ -12,3 +12,10 @@ Following this I used how to:
 - using descendant combinator
 - know about the methods in CSS
 - chain the different selectors
+
+Apply different cascade styles according to their priority on the different HTML elements.
+These includes:
+- ID selectors
+- class selectors
+- inherited element character
+- descendant combinator
