@@ -19,3 +19,4 @@ These includes:
 - class selectors
 - inherited element character
 - descendant combinator
+- margin and padding
